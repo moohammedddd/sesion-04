@@ -41,6 +41,23 @@
 
             #endregion
 
+            #region 16
+            //     Console.WriteLine("Enter a number to convert: ");
+            //   int number = int.Parse(Console.ReadLine());
+
+            //     string binary = "";
+
+            //     while (number > 0)
+            //     {
+            //         binary = (number % 2) + binary;
+            //         number /= 2;
+            //     }
+
+            //     Console.WriteLine($"The Binary of the number is {binary}");
+
+            #endregion
+
+
 
 
         }

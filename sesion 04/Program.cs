@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region 13  Write a program to allow the user to enter a string and print the REVERSE of it.
+            // System.Console.WriteLine("enter the string");
+            // string Input = Console.ReadLine();
+            // string Reversed  ="";
+            // for (int i = Input.Length -1; i >=0 ; i--)
+            // {
+            //     Reversed += Input[i]  ;
+            // }
+            // System.Console.WriteLine(Reversed);
+            #endregion
+
         }
     }
 }
